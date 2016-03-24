@@ -1,0 +1,46 @@
+Bitman 招新作业
+
+数据类型长度
+
+| 类型 | 16位字长| 32位字长 | 64位字长  |
+|::|::|::|::|
+| char | 1字节 | 1字节 |1字节 |
+| short |2字节  |2字节  |  2字节|
+| int | 2字节 | 4字节 | 4字节 |
+| long | 4字节 | 4字节 | 8字节 |
+| long long |8字节  | 8字节 |8字节 |
+| void* | 2字节 | 4字节 | 8字节 |
+
+用了下面的方法去验证64位操作系统的数据长度：
+
+    /*typesize.c--输出类型大小*/ 
+
+    #include<stdio.h>
+ 
+    int main(void)
+    {
+	
+    char ch = 'a';
+    short b = 6;
+    int a = 5;
+    long c = 7;
+    long long d = 8;
+    void *p;
+    printf("Type char has a size of %u bytes\n",sizeof(char));
+	
+    printf("Type short has a size of %u bytes\n",sizeof(short));
+	
+    printf("Type int has a size of %u bytes\n",sizeof(int));
+	
+    printf("Type long has a size of %u bytes\n",sizeof(long));
+	
+    printf("Type long long has a size of %u bytes\n",sizeof(long long));
+	
+    printf("Type void* has a size of %u bytes\n",sizeof(void*));
+	
+    return 0;
+
+    }
+
+在64位操作系统下，运行结果为：
+![](file:///C:/Users/wanghui/Desktop/小白/20.png)

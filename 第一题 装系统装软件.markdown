@@ -1,0 +1,90 @@
+Bitman招新作业  
+
+一、 装系统
+
+1、首先，要有一台电脑，笔记本或者台式。然后，备份重要文件数据。一般电脑上都有备份工具，如果系统无法启动，就用启动盘进入DOS界面进行备份。
+
+步骤如下：
+
+在提示符下输入ghost，回车即可运行ghost，首先出现的是关于界面，按任意键进入ghost操作界面，出现ghost菜单，主菜单共有4项，从下至上分别为Quit（退出）、Options（选项）、Peer to Peer（点对点，主要用于网络中）、Local（本地）。一般情况下我们只用到Local菜单项，其下有三个子项：Disk（硬盘备份与还原）、Partition（磁盘分区备份与还原）、Check（硬盘检测）。由于Ghost在备份还原是按扇区来进行复制，所以在操作时一定要小心，不要把目标盘（分区）弄错了。
+
+2、我们所用的电脑必须得有一个大于20G空间的盘，如果盘都满了，或者没有新的盘而又怕装系统会把盘里的东西都格掉，可以用微软自带的工具分一个新盘出来。
+
+具体步骤如下：
+
+1）打开控制面板管理工具；
+![](file:///C:/Users/wanghui/Desktop/小白/1.png)
+
+2）点开计算机管理；
+ ![](file:///C:/Users/wanghui/Desktop/小白/2.png)
+
+3）选择磁盘管理；
+ ![](file:///C:/Users/wanghui/Desktop/小白/3.png)
+
+4）下面选择要压缩的磁盘，最好是最后的一个，右击选择压缩卷如图，然后就看提示了，选择要压缩的大小也就是分盘的大小（最好把要压缩的盘清理出30G空间）；
+ ![](file:///C:/Users/wanghui/Desktop/小白/4.jpg)
+
+3、 准备一个大于4G的U盘，网上下载一个镜像文件读写软件UltraISO，最好用以前的老版本，最重要的是必须得有需要安装的系统的iso镜像文件。
+
+4、 制作启动盘（启动盘里的内容跟上面讲的不一样，这里我没有实践，网上拿图）：
+
+1）首先插入U盘，然后打开U1traISO软件；
+![](file:///C:/Users/wanghui/Desktop/小白/5.jpg)
+ 
+2）点击文件——打开 选择你下载好的iso文件，点击启动光盘，选择写入硬盘映像；
+ ![](file:///C:/Users/wanghui/Desktop/小白/6.jpg)
+![](file:///C:/Users/wanghui/Desktop/小白/7.jpg)
+ 
+3）选择磁盘，选择刚插入的U盘，写入方式用默认的HDD+或HDD都可以，接着点击写入，写入的时候不要动U盘。整个过程大概要十几分钟；
+![](file:///C:/Users/wanghui/Desktop/小白/8.jpg)
+ 
+4）拔出U盘。
+
+5、修改启动盘（如果你的电脑默认的USB启动，这步你就不用）
+
+启动盘做好了就该改写电脑启动顺序了，在这之前保证电脑不断电，或者电池最少还有25%的电量。
+
+重启电脑当屏幕显示你的电脑的品牌标志时，及时的按F2键进入bios（我的是华硕的笔记本，其他的电脑可能不一样），然后选择boot（引导），选择hard drive bbs priorities(硬盘启动顺序），进去后看到Boot Option #1，选择你的U盘（你可以看到你的U盘名字，如果是像我一样的小白千万不要动其他的东西= =）。到这步后选择右上方save & exit保存并退出。
+
+6、装系统
+
+1)插入刚才做好的启动盘，启动电脑，然后就会开始载入文件，next、next、install now。
+
+2)当问到“which type of installation do you want？”时，选择“upgrade”。然后选择之前新分的盘，点击format（格式化），然后next。
+
+3)这步安装也就2—3分钟的样子，所以当安装到Completing installating(安装完成）会跳转到下一界面，会有5秒钟的选择时间。这时赶紧拔出U盘，不然系统会默认再次展开U盘里的文件，相当于装了2次系统。
+
+7、 这时候差不多就好了，之后还有给电脑起名，注册用户，各种设置，这些就不一一讲了。
+
+二、装软件
+   
+ 下面是做什么东西需要用什么语言，以及对应的软件（才开始学C语言，不太懂所以只罗列了个别开发工具）：
+
+1、做Web编程：
+
+1）PHP 可以用EditPlus
+
+2）Ruby on Rails 可以用Netbeans6.0
+
+3）JSP  可以用MyEclipse、Dreamweaver
+
+2、写程序：
+
+1）C/C++  我们现在用的Visual Studio 2005/2008/2010 我目前在用Dev C++。
+
+2）.NET  用Mono Develop/Visual Studio/Sharp Develop…
+
+3、快速写些小东西解决问题：脚本语言
+
+1）Ruby 用Git/RVM/Mac…
+
+2）Python 用sublime/pycharm/eclipse + pydev
+
+4、手机程序
+
+1）Objective-C 用 xcode
+
+2）Java 用 Notepad++/XML marker/SQL Developer/Jad/Eclipse/Keytoo
+
+5、Flash：AS3 用 Flash cs5/Flash Develop/Flash Builder
+
