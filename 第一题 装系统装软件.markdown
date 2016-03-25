@@ -13,7 +13,7 @@ Bitman招新作业
 具体步骤如下：
 
 1）打开控制面板管理工具；
-![](http://h.picphotos.baidu.com/album/s%3D740%3Bq%3D90/sign=c023cfde222dd42a5b0903af33002a88/c2cec3fdfc039245c1817bb88094a4c27d1e2554.jpg)
+![github](http://h.picphotos.baidu.com/album/s%3D740%3Bq%3D90/sign=c023cfde222dd42a5b0903af33002a88/c2cec3fdfc039245c1817bb88094a4c27d1e2554.jpg)
 
 2）点开计算机管理；
  ![](http://e.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=16099400ee50352ab56121096373c083/0824ab18972bd4071900484a7c899e510eb30945.jpg)
