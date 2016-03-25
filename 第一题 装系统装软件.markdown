@@ -13,30 +13,30 @@ Bitman招新作业
 具体步骤如下：
 
 1）打开控制面板管理工具；
-![](file:///C:/Users/wanghui/Desktop/小白/1.png)
+![](http://h.picphotos.baidu.com/album/s%3D740%3Bq%3D90/sign=c023cfde222dd42a5b0903af33002a88/c2cec3fdfc039245c1817bb88094a4c27d1e2554.jpg)
 
 2）点开计算机管理；
- ![](file:///C:/Users/wanghui/Desktop/小白/2.png)
+ ![](http://e.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=16099400ee50352ab56121096373c083/0824ab18972bd4071900484a7c899e510eb30945.jpg)
 
 3）选择磁盘管理；
- ![](file:///C:/Users/wanghui/Desktop/小白/3.png)
+ ![](http://d.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=8810a45665d9f2d3241120ee99dcb162/d009b3de9c82d1583f5bc206870a19d8bd3e42a8.jpg)
 
 4）下面选择要压缩的磁盘，最好是最后的一个，右击选择压缩卷如图，然后就看提示了，选择要压缩的大小也就是分盘的大小（最好把要压缩的盘清理出30G空间）；
- ![](file:///C:/Users/wanghui/Desktop/小白/4.jpg)
+ ![](http://h.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=3416fa6031d12f2eca05aa617ff2ee13/1f178a82b9014a90b9f9dd0aae773912b21bee46.jpg)
 
 3、 准备一个大于4G的U盘，网上下载一个镜像文件读写软件UltraISO，最好用以前的老版本，最重要的是必须得有需要安装的系统的iso镜像文件。
 
 4、 制作启动盘（启动盘里的内容跟上面讲的不一样，这里我没有实践，网上拿图）：
 
 1）首先插入U盘，然后打开U1traISO软件；
-![](file:///C:/Users/wanghui/Desktop/小白/5.jpg)
+![](http://g.picphotos.baidu.com/album/s%3D740%3Bq%3D90/sign=01387be58235e5dd942ca7db46fdd6d2/cefc1e178a82b901046a5884748da9773812ef46.jpg)
  
 2）点击文件——打开 选择你下载好的iso文件，点击启动光盘，选择写入硬盘映像；
- ![](file:///C:/Users/wanghui/Desktop/小白/6.jpg)
-![](file:///C:/Users/wanghui/Desktop/小白/7.jpg)
+ ![](http://a.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=bf183f6871c6a7efbd26ac27cdca9420/f9198618367adab412e481f48cd4b31c8701e455.jpg)
+![](http://a.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=59ec0801ce177f3e1434f80c40ff00b6/472309f790529822fa2aa374d0ca7bcb0a46d468.jpg)
  
 3）选择磁盘，选择刚插入的U盘，写入方式用默认的HDD+或HDD都可以，接着点击写入，写入的时候不要动U盘。整个过程大概要十几分钟；
-![](file:///C:/Users/wanghui/Desktop/小白/8.jpg)
+![](http://g.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=7d50676d12ce36d3a60487310ac301f6/50da81cb39dbb6fd74837e910e24ab18962b37a8.jpg)
  
 4）拔出U盘。
 
