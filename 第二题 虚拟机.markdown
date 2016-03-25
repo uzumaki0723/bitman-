@@ -5,30 +5,30 @@ Bit man 招新作业
 1、首先，下载安装虚拟机的软件（我安装的是VM Workstation 12 player，我的电脑VM Workstation 12 PRO安装不了），然后下载系统镜像；
 
 2、点击创建新虚拟机，它会自己检测到你下载的镜像文件，然后下一步；
-![](file:///C:/Users/wanghui/Desktop/小白/9.png)
-![](file:///C:/Users/wanghui/Desktop/小白/10.png)
+![](http://b.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=dc3a7d9c09f41bd5de53ecf561eababa/359b033b5bb5c9eab4ea9954d239b6003af3b368.jpg)
+![](http://d.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=c8171c969413b07eb9bd54093ce7aa52/9f510fb30f2442a7ead66612d643ad4bd01302a8.jpg)
  
 3、自定义你的虚拟机，名字最好不要用中文（因为有些程序不支持中文目录的，而它恰好又要用到用户目录）；
-![](file:///C:/Users/wanghui/Desktop/小白/11.png)
+![](http://a.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=02710899afd3fd1f3209a63b007e1e6e/279759ee3d6d55fb3201ed916a224f4a21a4dd46.jpg)
  
 4、给你的虚拟机设置存储位置，最好不要在C盘，因为虚拟机会占用C盘比较大的空间；
-![](file:///C:/Users/wanghui/Desktop/小白/12.png)
+![](http://a.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=eb29d25e8a1001e94a3c100e883e409d/0b55b319ebc4b7450b4c2ca1c8fc1e178b8215a8.jpg)
  
 5、指定磁盘容量，我设置了40.0GB，然后选择存储为单个文件；
-![](file:///C:/Users/wanghui/Desktop/小白/13.png)
+![](http://d.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=c8ad31d608b30f24319ae802f8a5ea32/b17eca8065380cd72207385aa644ad3459828168.jpg)
  
 6、下一步，然后点击完成。
-![](file:///C:/Users/wanghui/Desktop/小白/14.png)
+![](http://e.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=eb0066ba77cf3bc7ec00c9ede13081d0/730e0cf3d7ca7bcb864f5d98b9096b63f624a855.jpg)
  
 7、完成后会自动安装系统，这时候等一等，安装好了输入密码后就能看到这样的：
-![](file:///C:/Users/wanghui/Desktop/小白/15.png)
+![](http://g.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=7f7d9695b41bb0518b24b729064ae1c5/e61190ef76c6a7ef18113291fafaaf51f3de6656.jpg)
  
 8、这样就完成了。
 
 出现的问题：之前在安装的时候是看了网上的一个教程，当时什么都不知道，教程上的步骤跟我现在这个步骤不一样。一开始，我不知道需要镜像文件，就直接照着教程上镜像文件的名字打出来，虚拟机是创建了一个，但是出现了下面的情况：
-![](file:///C:/Users/wanghui/Desktop/小白/16.jpg)
+![](http://e.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=546307864b086e066ea83b4a32384085/8cb1cb134954092331aef8c99558d109b2de4946.jpg)
  
   只看得懂 system not found。然后去问了导生，导生说因为根本就没有系统，于是我上网下载了一个镜像文件。后面安装虚拟机的操作都是导生指导完成的。
 
 9、下面是虚拟机中打开的校园网站截图：
- ![](file:///C:/Users/wanghui/Desktop/小白/17.png)
+ ![](http://g.picphotos.baidu.com/album/s%3D1100%3Bq%3D90/sign=eaa47edfcbbf6c81f33728e98c0e8a44/a8ec8a13632762d081253e08a7ec08fa513dc66a.jpg)
